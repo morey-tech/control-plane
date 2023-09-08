@@ -8,7 +8,7 @@ spec:
     repos:
       images:
       - repoURL: ghcr.io/morey-tech/demo-app
-        imageUpdateStrategy: Latest
+        updateStrategy: Latest
   promotionMechanisms:
     gitRepoUpdates:
     - repoURL: https://github.com/morey-tech/demo-app-deploy
