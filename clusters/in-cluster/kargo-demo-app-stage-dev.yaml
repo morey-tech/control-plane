@@ -7,7 +7,7 @@ spec:
   subscriptions:
     repos:
       images:
-      - repoURL: ghcr.io/morey-tech/demo-app
+      - repoURL: docker.io/moreytech/demo-app
         updateStrategy: Latest
   promotionMechanisms:
     gitRepoUpdates:
