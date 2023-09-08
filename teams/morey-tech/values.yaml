@@ -1,0 +1,8 @@
+email: nicholas@morey.tech
+cluster: in-cluster
+namespaces:
+- dev
+- stage
+- prod
+repos:
+- demo-app-deploy
